@@ -1,11 +1,6 @@
 # US-Healthcare-Case-Study
 This project analysis US Healthcare data using Microsoft Excel.
-It includes,
-Raw data
-data cleaning
-exploratory data analysis(EDA)
-dashboards 
-insights
+It includes: Raw data, data cleaning, exploratory data analysis(EDA), dashboards and insights.
 
 Objective:
 1. Identified the most prevelant medical condition within different demographic groups.
