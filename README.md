@@ -1,5 +1,5 @@
 # US-Healthcare-Case-Study
-This project analysis US Healthcare data using Microsoft Excel and Power BI.
+This project analyse US Healthcare data using Microsoft Excel and Power BI.
 It includes: Raw data, data cleaning, exploratory data analysis(EDA), dashboards and insights.
 
 Objective:
